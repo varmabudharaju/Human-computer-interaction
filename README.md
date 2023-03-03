@@ -9,5 +9,6 @@ Human Computer Interaction :Phase 1 : Exploration
   
 </p>
 
-- 🔭 Please click on the link to explore our work for a website which will help students at University of Florida to find events they like[Gator Groove](https://sairamvzf33.wixsite.com/gatorgroove)
+- 🔭 Please click on the link to explore our work for a website which will help students at University of Florida to find events they like 
+- [Gator Groove](https://sairamvzf33.wixsite.com/gatorgroove)
 
